@@ -1,4 +1,4 @@
-Oi 👋, meu nome e Hebert!
+**Oi 👋, meu nome e Hebert!**
 
 - 💼 Atuo como **Web Designer e Ui/Ux JR!**
 - 📓 Estudando Cloud!
